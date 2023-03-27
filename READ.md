@@ -1,2 +1,2 @@
-# Example Repoistory
-This is a sample file to test closned repo
+# Example Repository
+This is a sample file to test cloned repo
